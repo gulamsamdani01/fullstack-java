@@ -1,4 +1,4 @@
-/* ☕ 🔹 4️. Method Overriding + super
+/*  Method Overriding + super
 ❓ Question
 Override a method but also call parent method using super */
 
@@ -15,7 +15,7 @@ class child extends Parent{
 		System.out.println("Child Method");
 	}
 }
-public class Inheritance_04 {
+public class Method_Overriding_Super_Method {
 
 	public static void main(String[] args) {
 		child c = new child();

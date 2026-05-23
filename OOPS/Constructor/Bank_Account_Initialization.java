@@ -1,5 +1,5 @@
 
-/*☕ 🔹 2️⃣ Bank Account Initialization
+/*☕  Bank Account Initialization
 ❓ Question
 Create a BankAccount class where constructor sets account 
 holder name and balance. Balance should not be negative.*/
@@ -26,7 +26,7 @@ class BankAccount{
 	}
 }
 
-public class Construtors_02 {
+public class Bank_Account_Initialization {
 
 	public static void main(String[] args) {
 		BankAccount b = new BankAccount("Prince Raza", -500);

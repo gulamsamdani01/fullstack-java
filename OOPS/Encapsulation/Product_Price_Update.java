@@ -1,4 +1,4 @@
-/*☕ 🔹 5️. Product Price Update
+/*  Product Price Update
 ❓ Question
 Create a Product class where price can only increase 
 (not decrease).*/
@@ -19,7 +19,7 @@ class Product{
 		return price;
 	}
 }
-public class Encapsulation_05 {
+public class Product_Price_Update {
 
 	public static void main(String[] args) {
 		Product p = new Product();

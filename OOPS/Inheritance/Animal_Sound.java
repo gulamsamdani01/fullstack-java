@@ -9,7 +9,7 @@ class dog extends Animal{
 		System.out.println("Dog Sound");
 	}
 }
-public class Inheritance_01 {
+public class Animal_Sound {
 
 	public static void main(String[] args) {
 		Animal a = new Animal();

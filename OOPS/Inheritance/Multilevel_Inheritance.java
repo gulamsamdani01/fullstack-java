@@ -1,4 +1,4 @@
-/*☕ 🔹 3️. Multilevel Inheritance
+/*  Multilevel Inheritance
 ❓ Question
 Create 3 classes:
 
@@ -26,7 +26,7 @@ class C extends B{
 		System.out.println("Class C");
 	}
 }
-public class Inheritance_03 {
+public class Multilevel_Inheritance {
 
 	public static void main(String[] args) {
 		C obj = new C();

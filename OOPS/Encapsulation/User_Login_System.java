@@ -1,4 +1,4 @@
-/*☕ 🔹 3️. User Login System
+/*    User Login System
 ❓ Question
 Create a User class with username and password. Password must
  be hidden.*/
@@ -28,7 +28,7 @@ class User{
 		return "*********" ;
 	}
 }
-public class Encapsulation_03 {
+public class User_Login_System {
 
 	public static void main(String[] args) {
 		User u = new User();

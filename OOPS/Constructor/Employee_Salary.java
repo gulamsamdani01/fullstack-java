@@ -1,3 +1,6 @@
+/*Create an Employee class where each object gets 
+ * a unique ID using constructor.*/
+
 package Java.OOPS.Constructor;
 
 class Employee{
@@ -14,7 +17,7 @@ class Employee{
 		System.out.println("Name = " +name);
 	}
 }
-public class Constructor_03 {
+public class Employee_Salary {
 
 	public static void main(String[] args) {
 		

@@ -1,4 +1,4 @@
-/*☕ 🔹 2️. Employee Salary Protection
+/*   Employee Salary Protection
 ❓ Question
 Create an Employee class where salary cannot be negative.*/
 
@@ -17,7 +17,7 @@ class Employee{
 		return salary;
 	}
 }
-public class Encapsulation_02 {
+public class Employee_Salary_Protection {
 
 	public static void main(String[] args) {
 		Employee e = new Employee();

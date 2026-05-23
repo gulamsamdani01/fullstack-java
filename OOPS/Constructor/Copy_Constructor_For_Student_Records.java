@@ -1,4 +1,4 @@
-/*☕ 🔹 5️⃣ Copy Constructor for Student Records
+/* Copy Constructor for Student Records
 ❓ Question
 Create a Student class where one student object copies another 
 and adds bonus marks.*/
@@ -22,7 +22,7 @@ class Student{
 }
 
 
-public class Constructor_05 {
+public class Copy_Constructor_For_Student_Records {
 
 	public static void main(String[] args) {
 		Student s1 = new Student(90);

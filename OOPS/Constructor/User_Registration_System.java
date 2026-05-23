@@ -1,5 +1,5 @@
 
-/*☕ 🔹 1️⃣ User Registration System
+/*☕ User Registration System
 ❓ Question
 Create a User class where constructor initializes username, 
 email, and password. Ensure password is at least 6 characters.*/
@@ -31,7 +31,7 @@ class user{
 		System.out.println("Password= "+password);
 	}
 	}
-public class Construtors_01 {
+public class User_Registration_System {
 
 	public static void main(String[] args) {
 		user u = new user("Prince Raza","princeraza021@gmail.com","12365");

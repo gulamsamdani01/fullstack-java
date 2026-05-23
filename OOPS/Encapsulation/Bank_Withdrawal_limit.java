@@ -1,4 +1,4 @@
-/*☕ 🔹 4️. Bank Withdrawal Limit
+/*   Bank Withdrawal Limit
 ❓ Question
 Create a BankAccount class where withdrawal cannot exceed 
 balance.*/
@@ -20,7 +20,7 @@ class BankAccount{
 		return balance;
 	}
 }
-public class Encapsulation_04 {
+public class Bank_Withdrawal_limit {
 
 	public static void main(String[] args) {
 		BankAccount bank = new BankAccount();

@@ -1,4 +1,4 @@
-/*☕ 🔹 5️. Real-world Example (Vehicle System)
+/*  Real-world Example (Vehicle System)
 ❓ Question
 Create a Vehicle class with speed.
 Create Car class that inherits it and adds brand. */
@@ -18,7 +18,7 @@ class Car extends Vehicle{
 	}
 }
 
-public class Inheritance_05 {
+public class Vehicle_Speed_Car_Brand {
 
 	public static void main(String[] args) {
 		Car c = new Car();

@@ -1,4 +1,4 @@
-/* ☕ 🔹 1️ . Student Data Validation
+/*  Student Data Validation
 ❓ Question
 Create a Student class with private marks. Allow setting 
 marks only between 0–100.*/
@@ -21,7 +21,7 @@ class Student{
 		return marks;
 	}
 }
-public class Encapsulation_01 {
+public class Student_Data_Validation {
 
 	public static void main(String[] args) {
 		Student s = new Student();

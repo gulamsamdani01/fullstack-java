@@ -1,4 +1,4 @@
-/*☕ 🔹 2️. Constructor + Inheritance
+/*   Constructor + Inheritance
 ❓ Question
 Create class Person with constructor printing "Person created".
 Create class Student that extends Person.*/
@@ -16,7 +16,7 @@ class Student extends Person{
 		System.out.println("Student Created");
 	}
 }
-public class Inheritance_02 {
+public class Person_Student_Created {
 
 	public static void main(String[] args) {
 		Student s= new Student();

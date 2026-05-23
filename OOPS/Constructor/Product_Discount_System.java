@@ -1,4 +1,4 @@
-/*☕ 🔹 4️. Product Discount System
+/* Product Discount System
 ❓ Queston
 Create a Product class where constructor applies discount 
 if price > 1000.*/
@@ -24,7 +24,7 @@ class Product{
 		System.out.println("Price = "+ price );
 	}
 }
-public class Constructor_04 {
+public class Product_Discount_System {
 
 	public static void main(String[] args) {
 		Product p1 = new Product ("Laptop",2000);
