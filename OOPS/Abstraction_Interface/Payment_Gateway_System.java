@@ -3,7 +3,7 @@
 Create an interface PaymentGateway with method pay().
 Implement UPI, Card, and NetBanking.*/
 
-package Java.OOPS.Abstraction;
+package Java.OOPS.Abstraction_Interface;
 interface PaymentGateway{
 	void pay(double amount);
 }

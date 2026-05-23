@@ -3,7 +3,7 @@
 Create an interface Notification with method send().
 Implement Email, SMS, and PushNotification.*/
 
-package Java.OOPS.Abstraction;
+package Java.OOPS.Abstraction_Interface;
 interface Notification{
 	void send (String message);
 }

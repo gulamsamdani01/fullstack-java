@@ -3,7 +3,7 @@
 Create abstract class Vehicle with method rentCost().
 Implement Car and Bike.*/
 
-package Java.OOPS.Abstraction;
+package Java.OOPS.Abstraction_Interface;
 abstract class Vehicle{
 	abstract double rentCost(int days);
 }

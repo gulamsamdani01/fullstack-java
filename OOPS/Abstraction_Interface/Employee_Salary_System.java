@@ -3,7 +3,7 @@
 Create abstract class Employee with method calculateSalary().
 Implement FullTimeEmployee and PartTimeEmployee.*/
 
-package Java.OOPS.Abstraction;
+package Java.OOPS.Abstraction_Interface;
 abstract class Employee{
 	abstract double calculateSalary();
 	}

@@ -4,7 +4,7 @@ Design an abstract class FoodOrder with method calculateBill().
 Create subclasses VegOrder and NonVegOrder with different 
 pricing logic.*/
 
-package Java.OOPS.Abstraction;
+package Java.OOPS.Abstraction_Interface;
 
 abstract class FoodOrder{
 	abstract double calculateBill(int quantity); 
